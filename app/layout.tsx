@@ -9,7 +9,7 @@ import Script from "next/script"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Jenova Homestays Vattakanal | Cottages in Kodaikanal",
+  title: "Jenova cottages Vattakanal | homestays in Kodaikanal and vattakanal",
   description:
     "Experience luxury homestays and cottages in Vattakanal, Kodaikanal. Enjoy stunning views, cozy rooms, and warm hospitality at Jenova Homestays.",
   keywords:

@@ -6,22 +6,22 @@ const services = [
   {
     title: "Indoor Bonfire",
     description: "Enjoy a cozy evening around our indoor bonfire, perfect for relaxation and storytelling.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/bonfire.jpg",
   },
   {
     title: "Trekking",
     description: "Explore the beautiful surroundings of Kodaikanal with our guided trekking experiences.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/trekking.jpg",
   },
   {
     title: "Offroading",
     description: "Experience the thrill of offroading in the rugged terrains around our homestay.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/offroading.jpg",
   },
   {
     title: "Barbecue and Homefood",
     description: "Savor delicious barbecue and authentic homemade local cuisine during your stay.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/barbecue.jpg",
   },
 ]
 
