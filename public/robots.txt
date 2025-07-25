@@ -22,6 +22,5 @@ Allow: /
 User-agent: *
 Allow: /
 
-
 Sitemap: https://jenovahomestays.com/sitemap.xml
 
