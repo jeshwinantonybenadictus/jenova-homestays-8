@@ -99,14 +99,14 @@ export default function Home() {
                 Our Cozy Cottages in Vattakanal
               </h2>
               <div className="grid gap-6 md:grid-cols-3">
-                <UnitCard
+                {/* <UnitCard
                   title="3 BHK Cottage"
                   description="Spacious 3 bedroom cottage perfect for families, with stunning views of Vattakanal"
                   image="/images/cottageoutdoor2.jpg"
                   link="/units/3bhk"
                   alt="3 BHK cottage in Vattakanal with panoramic mountain views"
                   price="₹3000"
-                />
+                /> */}
                 <UnitCard
                   title="2 BHK Cottage"
                   description="Comfortable 2 bedroom cottage for small families or groups, nestled in Vattakanal's lush greenery"
